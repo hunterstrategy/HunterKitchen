@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e66afa6-7b9a-488d-81cb-e5e4ef66d395" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Photos/wontonsoup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WontonSoup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrispyParmesanBakedChickenWithVeggies.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jennifer Aniston Salad.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Photos/crispyparmesan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Photos/jenniferaniston.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partysalsa" beforeDir="false" afterPath="$PROJECT_DIR$/partysalsa" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +24,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Temp/download.jpg" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\dalto\Documents\GitHub\HunterKitchen\Photos" />
       <recent name="C:\Users\dalto\Documents\GitHub\HunterKitchen" />
+      <recent name="C:\Users\dalto\Documents\GitHub\HunterKitchen\Photos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dalto\Documents\GitHub\HunterKitchen\Photos" />
